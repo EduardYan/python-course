@@ -1,0 +1,11 @@
+archivo
+para
+debujear
+el
+programa
+de
+buscar
+palabras
+en
+un
+texto

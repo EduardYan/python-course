@@ -1,0 +1,3 @@
+In this carpet is the a small script that
+add words a list_words.txt, for debug the
+principal file of program main.py
